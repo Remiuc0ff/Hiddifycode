@@ -3,18 +3,8 @@
 #profile-update-interval: 69
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:Hello world! 👋                                                                                                                                        не работает впн?, пиши в лс @remiuc 🎓                                                                                                                                Поддержать автора: @helpHiddifycode 🙏
-vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@7c20e5s6lp.cdn.twcstorage.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7Bpath%3D%2F%2C%20seqKey%3Dpage%2C%20sessionKey%3DX-Auth-Token%2C%20xPaddingKey%3D_dc%2C%20seqPlacement%3Dquery%2C%20xPaddingHeader%3DX-Padding-Data%2C%20xPaddingMethod%3Dtokenish%2C%20sessionPlacement%3Dheader%2C%20uplinkHTTPMethod%3DPOST%2C%20xPaddingObfsMode%3Dtrue%2C%20xPaddingPlacement%3DqueryInHeader%7D&host=7c20e5s6lp.cdn.twcstorage.ru&fp=chrome&type=xhttp&sni=7c20e5s6lp.cdn.twcstorage.ru#Обход бс 🇷🇺 • Proxy #1
-
-vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@13cqzqa30y.a.trbcdn.net:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7Bpath%3D%2F%2C%20seqKey%3Dpage%2C%20sessionKey%3DX-Auth-Token%2C%20xPaddingKey%3D_dc%2C%20seqPlacement%3Dquery%2C%20xPaddingHeader%3DX-Padding-Data%2C%20xPaddingMethod%3Dtokenish%2C%20sessionPlacement%3Dheader%2C%20uplinkHTTPMethod%3DPOST%2C%20xPaddingObfsMode%3Dtrue%2C%20xPaddingPlacement%3DqueryInHeader%7D&host=13cqzqa30y.a.trbcdn.net&fp=chrome&type=xhttp&sni=13cqzqa30y.a.trbcdn.net#Обход бс 🇷🇺 • Proxy #2
-
-vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@51.250.28.75:443?security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-Обход бс 🇷🇺 • Proxy #3
-
 vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@51.250.28.75:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&fp=qq&type=xhttp&sni=ads.x5.ru&sid=12b4e1#Обход бс 🇷🇺 • Proxy #4
-
 vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@51.250.28.75:443?security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=12b4e1#Обход бс 🇷🇺 • Proxy #5
-
 vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@158.160.184.114:443?security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=12b4e1#Обход бс 🇷🇺 • Proxy #6
-
 vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@158.160.184.114:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&fp=qq&type=xhttp&sni=ads.x5.ru&sid=12b4e1#Обход бс 🇷🇺 • Proxy #7
-
 vless://d62c8d22-d7e4-42f6-bc30-17ee345991f6@158.160.184.114:443?security=reality&encryption=none&pbk=Li2uLkLa-Dz1NnUEf44VyUpC5gu0o9jJXTNGBdzb7gI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=12b4e1#Обход бс 🇷🇺 • Proxy #8
