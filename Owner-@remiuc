@@ -3,62 +3,62 @@
 #profile-update-interval: 1
 #subscription-userinfo: expire=4102444800; total=0; used=0
 #announce:Подписка действует до: 05.02.2027 🪐                                                                                      🌟 Sigrid VPN — твой VPN для работы и повседневных зада
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yt-ads.adsmoba.com&pbk=dAy-eqrUvXDYAIrhrYIqSThjAhbxSt7qMRdH30qm3X8&sid=f3a9d2b4c7e4f208&fp=safari# 🇷🇺🍿 YouTube без рекламы 🍿⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&sid=f3c4d918e7c4f744&fp=qq# 🇩🇪 Германия⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-uk.upd-media.com&pbk=WxGqUqMkMBfXSRIoY1NfgHFNSf7sfffz5qsAW6IgNGg&sid=f3c4d9b1e7e4f712&fp=safari#🇬🇧 Англия⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@ads-ne.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads-ne.data-media-social.org&pbk=SkBD-xPB4PsipXdtXiuSMF_6OBgQtKc6YiMxD83v6B4&sid=f3c9d1b1c7d4f718&fp=safari# 🇳🇱 Нидерланды 2⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&sid=b3c1d918e7c4f767&fp=chrome#🇨🇭 Швейцария 2⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=api-de.data-media-social.org&path=%2Fassets#🇩🇪 Германия
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=yt-ads.adsmoba.com&path=%2Fassets#🇷🇺🍿 YouTube без рекламы 🍿
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&sid=f3a9d2b1c7d4f608&fp=firefox#🇦🇹 Австрия⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-bl.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-bl.data-media-social.org&pbk=FM_FCyXj3OKqsDvc7ABvxiYC5G1dP_H5W0wjqPOg2Sc&sid=f3a9d1b1c7d4f708&fp=safari#🇧🇬 Болгария⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-uk.upd-media.com&path=%2Fassets#🇬🇧 Англия
-
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@host.sdssg-vid.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=host.sdssg-vid.online&pbk=JTfn2ptIhAUEvckdewfrYYQXi9nTTOyWGuWInafzxm0&sid=b3a1d910e7c2d2&fp=safari#🇳🇱 Нидерланды⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-ch.upd-media.com&path=%2Fassets#🇨🇭 Швейцария 2
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@sw.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-ne.data-media-social.org&pbk=jtCRJj_ThfSi1VhBITK1rUZv9lfgKNh-wE19RaGUOTA&sid=b3a1d910e7c2f722&fp=random#🇸🇪 Швеция⚡️
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@ads-ne.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=ads-ne.data-media-social.org&path=%2Fassets#🇳🇱 Нидерланды 2
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=api-as.data-media-social.org&path=%2Fassets#🇦🇹 Австрия
-
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@sw.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=sw.data-media-social.org&path=%2Fassets#🇸🇪 Швеция
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api.sdssg-vid.online:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api.sdssg-vid.online&pbk=g7zbR6uurt4sNCP-tpWAU-sWWrp2qmp-6H49cH2wSDU&sid=b3a1d910e7c2&fp=chrome#🇵🇱 Польша⚡️
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@app-fr.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=app-fr.upd-media.com&path=%2Fassets#🇫🇷 Франция
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-bl.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-bl.data-media-social.org&pbk=FM_FCyXj3OKqsDvc7ABvxiYC5G1dP_H5W0wjqPOg2Sc&sid=f3a9d1b1c7d4f708&fp=safari#🇧🇬 Болгария⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@metach.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=metach.adsmoba.com&pbk=XatId7M5qJTuy9WBKcT_Z33n_MgBm3-F8IymygnjQmE&sid=f3c9d9b1e7d4f712&fp=chrome#🇨🇭 Швейцария⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-uk.upd-media.com&pbk=WxGqUqMkMBfXSRIoY1NfgHFNSf7sfffz5qsAW6IgNGg&sid=f3c4d9b1e7e4f712&fp=safari#🇬🇧 Англия⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=aesp.upd-media.com&pbk=_ileup_YdEL-hwQfw0y53sk19WagtvhBqqzlI6zlZFY&sid=f3c4d9b8e7e4f744&fp=safari#🇪🇸 Испания⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@sw.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-ne.data-media-social.org&pbk=jtCRJj_ThfSi1VhBITK1rUZv9lfgKNh-wE19RaGUOTA&sid=b3a1d910e7c2f722&fp=random#🇸🇪 Швеция⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-de.data-media-social.org&pbk=7X8ifHa-K72alW7ly5SRYwotXdjA-gEQoEGUK1EagVM&sid=f3c4d918e7c4f744&fp=qq# 🇩🇪 Германия⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@ads-ne.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads-ne.data-media-social.org&pbk=SkBD-xPB4PsipXdtXiuSMF_6OBgQtKc6YiMxD83v6B4&sid=f3c9d1b1c7d4f718&fp=safari# 🇳🇱 Нидерланды 2⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-as.data-media-social.org&pbk=D-lJlqG_tR0QSqyKj4KZRImMRfZbhp88loaf8jP0mhc&sid=f3a9d2b1c7d4f608&fp=firefox#🇦🇹 Австрия⚡️
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-us.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-us.upd-media.com&pbk=T5Dj3GB5C8gtZ4H8x_eS0aZXik-8Yqzyi3F1AEmM4zE&sid=f3a9d24f68&fp=chrome#🇺🇸 Соединенные Штаты Америки⚡️
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@host.sdssg-vid.online:443?encryption=none&type=xhttp&security=tls&sni=host.sdssg-vid.online&path=%2Fassets# 🇳🇱 Нидерланды
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@upp-to.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=upp-to.adsmoba.com&pbk=CcQSK8MlTK613n1M4iXtMjkWwejRMWhAQp92tUvZXnk&sid=e3a1d441e7c4f703&fp=random#🇯🇵 Япония⚡️
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=aesp.upd-media.com&path=%2Fassets#🇪🇸 Испания
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&sid=b3c1d918e7c4f767&fp=chrome#🇨🇭 Швейцария 2⚡️
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=yt-ads.adsmoba.com&pbk=dAy-eqrUvXDYAIrhrYIqSThjAhbxSt7qMRdH30qm3X8&sid=f3a9d2b4c7e4f208&fp=safari# 🇷🇺🍿 YouTube без рекламы 🍿⚡️
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api.sdssg-vid.online:443?encryption=none&type=xhttp&security=tls&sni=api.sdssg-vid.online&path=%2Fassets#🇵🇱 Польша
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-bl.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=api-bl.data-media-social.org&path=%2Fassets#🇧🇬 Болгария
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@upp-to.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=upp-to.adsmoba.com&pbk=CcQSK8MlTK613n1M4iXtMjkWwejRMWhAQp92tUvZXnk&sid=e3a1d441e7c4f703&fp=random#🇯🇵 Япония⚡️
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@metach.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=metach.adsmoba.com&path=%2Fassets#🇨🇭 Швейцария
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@host.sdssg-vid.online:443?encryption=none&type=xhttp&security=tls&sni=host.sdssg-vid.online&path=%2Fassets# 🇳🇱 Нидерланды
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@sw.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=sw.data-media-social.org&path=%2Fassets#🇸🇪 Швеция
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-as.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=api-as.data-media-social.org&path=%2Fassets#🇦🇹 Австрия
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@ads-ne.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=ads-ne.data-media-social.org&path=%2Fassets#🇳🇱 Нидерланды 2
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-uk.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-uk.upd-media.com&path=%2Fassets#🇬🇧 Англия
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@media-it.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=media-it.adsmoba.com&path=%2Fassets#🇮🇹 Италия
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-us.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-us.upd-media.com&path=%2Fassets#🇺🇸 Соединенные Штаты Америки
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-de.data-media-social.org:443?encryption=none&type=xhttp&security=tls&sni=api-de.data-media-social.org&path=%2Fassets#🇩🇪 Германия
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=aesp.upd-media.com&pbk=_ileup_YdEL-hwQfw0y53sk19WagtvhBqqzlI6zlZFY&sid=f3c4d9b8e7e4f744&fp=safari#🇪🇸 Испания⚡️
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@app-fr.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=app-fr.upd-media.com&path=%2Fassets#🇫🇷 Франция
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-us.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-us.upd-media.com&path=%2Fassets#🇺🇸 Соединенные Штаты Америки
 
 vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@upp-to.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=upp-to.adsmoba.com&path=%2Fassets#🇯🇵 Япония
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@metach.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=metach.adsmoba.com&path=%2Fassets#🇨🇭 Швейцария
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@aesp.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=aesp.upd-media.com&path=%2Fassets#🇪🇸 Испания
 
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@metach.adsmoba.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=metach.adsmoba.com&pbk=XatId7M5qJTuy9WBKcT_Z33n_MgBm3-F8IymygnjQmE&sid=f3c9d9b1e7d4f712&fp=chrome#🇨🇭 Швейцария⚡️
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@api-ch.upd-media.com:443?encryption=none&type=xhttp&security=tls&sni=api-ch.upd-media.com&path=%2Fassets#🇨🇭 Швейцария 2
+
+vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@yt-ads.adsmoba.com:443?encryption=none&type=xhttp&security=tls&sni=yt-ads.adsmoba.com&path=%2Fassets#🇷🇺🍿 YouTube без рекламы 🍿
